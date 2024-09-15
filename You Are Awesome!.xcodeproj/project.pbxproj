@@ -61,9 +61,9 @@
 				33A9E5442C936E8E00C8DE58 /* AppDelegate.swift */,
 				33A9E5462C936E8E00C8DE58 /* SceneDelegate.swift */,
 				33A9E5482C936E8E00C8DE58 /* ViewController.swift */,
+				33A9E5522C936E8F00C8DE58 /* LaunchScreen.storyboard */,
 				33A9E54A2C936E8E00C8DE58 /* Main.storyboard */,
 				33A9E5502C936E8F00C8DE58 /* Assets.xcassets */,
-				33A9E5522C936E8F00C8DE58 /* LaunchScreen.storyboard */,
 				33A9E5552C936E8F00C8DE58 /* Info.plist */,
 				33A9E54D2C936E8E00C8DE58 /* You_Are_Awesome_.xcdatamodeld */,
 			);
